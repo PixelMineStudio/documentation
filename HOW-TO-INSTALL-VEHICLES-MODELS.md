@@ -13,7 +13,7 @@ This document describes the installation of vehicle configurations purchased by 
 
 - Default Resource Pack Downloader
 - Any resource pack downloader system (not compatible IA & Oraxen)
-- QualityArmory Vehicles
+- QualityArmory Vehicles (Not Yet)
 - MTVehicles
 - VehiclesPlus
 
