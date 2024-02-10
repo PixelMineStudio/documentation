@@ -11,12 +11,7 @@ This page contains documentation for PixelMine customers and followers. It conta
 
 ## General List
 
-[How do I install the models on my server?](https://google.com)
-
-[How do I install Vehicles models on my server?](https://google.com)
-
-[How do I let you know about the problem I'm having with my server?](https://google.com)
-
+[How do I install Vehicles models on my server?](https://github.com/PixelMineStudio/documentation/blob/main/HOW-TO-INSTALL-VEHICLES-MODELS.md)
 
 ## Contact Us
 
