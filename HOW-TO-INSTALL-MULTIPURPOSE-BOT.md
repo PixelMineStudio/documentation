@@ -54,6 +54,7 @@ The MultiPurpose bot requires different dependencies for different operating sys
 ### Step 4: Start the multipurpose bot;
 
 - 1: After correcting all the information, you can open cmd and enter the "npm run server" command.
-- 2: To edit messages, you can edit them from /src/messageConfig.json.
+- 2: If you get an error, first enter the "npm install" command from the console.
+- 3: To edit messages, you can edit them from /src/messageConfig.json.
 
 Since the bot infrastructure and the whole system is still fresh, there may be errors. You can solve these errors by opening a ticket.
