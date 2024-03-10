@@ -53,7 +53,7 @@ The MultiPurpose bot requires different dependencies for different operating sys
 
 ### Step 4: Start the multipurpose bot;
 
-- 1: Once you have corrected all your information, you can use the start.bat or start.sh file.
+- 1: After correcting all the information, you can open cmd and enter the "npm run server" command.
 - 2: To edit messages, you can edit them from /src/messageConfig.json.
 
 Since the bot infrastructure and the whole system is still fresh, there may be errors. You can solve these errors by opening a ticket.
