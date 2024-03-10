@@ -12,6 +12,7 @@ This page contains documentation for PixelMine customers and followers. It conta
 ## General List
 
 [How do I install Vehicles models on my server?](https://github.com/PixelMineStudio/documentation/blob/main/HOW-TO-INSTALL-VEHICLES-MODELS.md)
+[How do I install MultiPurpose Discord Bot on my computer/server?](https://github.com/PixelMineStudio/documentation/blob/main/HOW-TO-INSTALL-MULTIPURPOSE-BOT.md)
 
 ## Contact Us
 
